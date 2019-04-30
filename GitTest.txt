@@ -1,4 +1,5 @@
 Git Testing form cmd
 First change
 Commited changes undoing
-Added branch 'GitTestBranch'
+(Added branch 'GitTestBranch'
+	one more line in GitTestBranch)
